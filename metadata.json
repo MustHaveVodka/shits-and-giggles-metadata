@@ -1,0 +1,7 @@
+{
+  "name": "Shits and Giggles",
+  "symbol": "SNG",
+  "uri": "https://example.com/metadata",  // Replace this with the actual URL
+  "seller_fee_basis_points": 0,
+  "creators": null
+}
