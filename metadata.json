@@ -1,7 +1,12 @@
 {
-  "name": "Shits and Giggles",
-  "symbol": "SNG",
-  "uri": "https://example.com/metadata",  https://github.com/MustHaveVodka/shits-and-giggles-metadata/blob/main/metadata.json
-  "seller_fee_basis_points": 0,
-  "creators": null
+    "name": "Shits and Giggles",
+    "symbol": "SNG",
+    "uri": "https://raw.githubusercontent.com/MustHaveVodka/shits-and-giggles-metadata/main/metadata.json",
+    "seller_fee_basis_points": 0,
+    "creators": [
+        {
+            "address": "9QdfHU8jQTnJzansy3uRHneXwJPdQHxcbQ1akRKyHNsd",
+            "share": 100
+        }
+    ]
 }
