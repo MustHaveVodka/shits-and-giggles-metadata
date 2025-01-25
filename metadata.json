@@ -1,7 +1,7 @@
 {
   "name": "Shits and Giggles",
   "symbol": "SNG",
-  "uri": "https://example.com/metadata",  // Replace this with the actual URL
+  "uri": "https://example.com/metadata",  https://github.com/MustHaveVodka/shits-and-giggles-metadata/blob/main/metadata.json
   "seller_fee_basis_points": 0,
   "creators": null
 }
