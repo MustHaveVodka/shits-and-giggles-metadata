@@ -1,12 +1,18 @@
 {
-    "name": "Shits and Giggles",
-    "symbol": "SNG",
-    "uri": "https://raw.githubusercontent.com/MustHaveVodka/shits-and-giggles-metadata/main/metadata.json",
-    "seller_fee_basis_points": 0,
-    "creators": [
-        {
-            "address": "9QdfHU8jQTnJzansy3uRHneXwJPdQHxcbQ1akRKyHNsd",
-            "share": 100
-        }
+  "name": "Shits and Giggles",
+  "symbol": "SNG",
+  "description": "This token is just for shits and giggles.",
+  "image": "https://example.com/token-image.png",
+  "external_url": "https://example.com",
+  "attributes": [
+    { "trait_type": "Purpose", "value": "Entertainment" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/token-image.png",
+        "type": "image/png"
+      }
     ]
+  }
 }
